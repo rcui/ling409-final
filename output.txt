@@ -1,0 +1,134 @@
+bigram depth:  800
+
+test set range: 0-100 accuracy: 0.865
+Most Informative Features
+(('not', 'RB'), ('funny', 'JJ')) = True              neg : pos    =     16.3 : 1.0
+(('is', 'VBZ'), ('terrific', 'JJ')) = True              pos : neg    =     14.3 : 1.0
+(('the', 'DT'), ('ridiculous', 'JJ')) = True              neg : pos    =     12.3 : 1.0
+(('our', 'PRP$'), ('own', 'JJ')) = True              pos : neg    =     11.7 : 1.0
+(('an', 'DT'), ('outstanding', 'JJ')) = True              pos : neg    =     10.3 : 1.0
+(('.', '.'), ('too', 'RB')) = True              neg : pos    =      9.8 : 1.0
+(('perfect', 'JJ'), ('.', '.')) = True              pos : neg    =      9.7 : 1.0
+(('good', 'JJ'), ('actors', 'NNS')) = True              neg : pos    =      9.7 : 1.0
+(('a', 'DT'), ('boring', 'JJ')) = True              neg : pos    =      9.0 : 1.0
+(('best', 'JJS'), ('movie', 'NN')) = True              pos : neg    =      9.0 : 1.0
+
+test set range: 100-200 accuracy: 0.85
+Most Informative Features
+(('is', 'VBZ'), ('terrific', 'JJ')) = True              pos : neg    =     17.0 : 1.0
+(('not', 'RB'), ('funny', 'JJ')) = True              neg : pos    =     15.7 : 1.0
+(('entertaining', 'JJ'), ('and', 'CC')) = True              pos : neg    =     12.3 : 1.0
+(('is', 'VBZ'), ('quickly', 'RB')) = True              pos : neg    =     10.3 : 1.0
+(('so', 'RB'), ('badly', 'RB')) = True              neg : pos    =     10.3 : 1.0
+(('be', 'VB'), ('funny', 'JJ')) = True              neg : pos    =      9.9 : 1.0
+(('enjoyable', 'JJ'), (',', ',')) = True              pos : neg    =      9.7 : 1.0
+(('an', 'DT'), ('outstanding', 'JJ')) = True              pos : neg    =      9.7 : 1.0
+(('good', 'JJ'), ('actors', 'NNS')) = True              neg : pos    =      9.7 : 1.0
+(('and', 'CC'), ('believable', 'JJ')) = True              pos : neg    =      9.7 : 1.0
+
+test set range: 200-300 accuracy: 0.815
+Most Informative Features
+(('not', 'RB'), ('funny', 'JJ')) = True              neg : pos    =     17.0 : 1.0
+(('is', 'VBZ'), ('terrific', 'JJ')) = True              pos : neg    =     15.7 : 1.0
+(('is', 'VBZ'), ('perfect', 'JJ')) = True              pos : neg    =     12.2 : 1.0
+(('the', 'DT'), ('ridiculous', 'JJ')) = True              neg : pos    =     11.7 : 1.0
+(('entertaining', 'JJ'), ('and', 'CC')) = True              pos : neg    =     11.0 : 1.0
+(('the', 'DT'), ('finest', 'JJS')) = True              pos : neg    =     11.0 : 1.0
+(('our', 'PRP$'), ('own', 'JJ')) = True              pos : neg    =     11.0 : 1.0
+(('an', 'DT'), ('outstanding', 'JJ')) = True              pos : neg    =     10.3 : 1.0
+(('and', 'CC'), ('believable', 'JJ')) = True              pos : neg    =     10.3 : 1.0
+(('very', 'RB'), ('similar', 'JJ')) = True              pos : neg    =     10.3 : 1.0
+
+test set range: 300-400 accuracy: 0.835
+Most Informative Features
+(('not', 'RB'), ('funny', 'JJ')) = True              neg : pos    =     15.0 : 1.0
+(('.', '.'), ('nevertheless', 'RB')) = True              pos : neg    =     13.0 : 1.0
+(('entertaining', 'JJ'), ('and', 'CC')) = True              pos : neg    =     12.3 : 1.0
+(('a', 'DT'), ('boring', 'JJ')) = True              neg : pos    =     10.3 : 1.0
+(('our', 'PRP$'), ('own', 'JJ')) = True              pos : neg    =     10.3 : 1.0
+(('quite', 'RB'), ('well', 'RB')) = True              pos : neg    =     10.3 : 1.0
+(('and', 'CC'), ('believable', 'JJ')) = True              pos : neg    =     10.3 : 1.0
+(('is', 'VBZ'), ('hilarious', 'JJ')) = True              pos : neg    =     10.3 : 1.0
+(('completely', 'RB'), ('different', 'JJ')) = True              pos : neg    =      9.7 : 1.0
+(('matt', 'JJ'), ('damon', 'NN')) = True              pos : neg    =      9.7 : 1.0
+
+test set range: 400-500 accuracy: 0.765
+Most Informative Features
+(('is', 'VBZ'), ('terrific', 'JJ')) = True              pos : neg    =     15.7 : 1.0
+(('not', 'RB'), ('funny', 'JJ')) = True              neg : pos    =     14.3 : 1.0
+(('our', 'PRP$'), ('own', 'JJ')) = True              pos : neg    =     12.3 : 1.0
+(('s', 'RB'), ('as', 'IN')) = True              neg : pos    =     11.7 : 1.0
+(('bad', 'JJ'), ('dialogue', 'NN')) = True              neg : pos    =     11.7 : 1.0
+(('entertaining', 'JJ'), ('and', 'CC')) = True              pos : neg    =     11.7 : 1.0
+(('a', 'DT'), ('boring', 'JJ')) = True              neg : pos    =     10.3 : 1.0
+(('very', 'RB'), ('similar', 'JJ')) = True              pos : neg    =     10.3 : 1.0
+(('an', 'DT'), ('outstanding', 'JJ')) = True              pos : neg    =      9.7 : 1.0
+(('good', 'JJ'), ('actors', 'NNS')) = True              neg : pos    =      9.7 : 1.0
+
+test set range: 500-600 accuracy: 0.845
+Most Informative Features
+(('is', 'VBZ'), ('terrific', 'JJ')) = True              pos : neg    =     15.7 : 1.0
+(('entertaining', 'JJ'), ('and', 'CC')) = True              pos : neg    =     13.0 : 1.0
+(('our', 'PRP$'), ('own', 'JJ')) = True              pos : neg    =     11.7 : 1.0
+(('a', 'DT'), ('fantastic', 'JJ')) = True              pos : neg    =     11.0 : 1.0
+(('very', 'RB'), ('similar', 'JJ')) = True              pos : neg    =     11.0 : 1.0
+(('about', 'IN'), ('as', 'RB')) = True              neg : pos    =     11.0 : 1.0
+(('a', 'DT'), ('boring', 'JJ')) = True              neg : pos    =      9.7 : 1.0
+(('red', 'JJ'), ('planet', 'NN')) = True              neg : pos    =      9.7 : 1.0
+((',', ','), ('stupid', 'JJ')) = True              neg : pos    =      9.7 : 1.0
+(('ed', 'JJ'), ('harris', 'NN')) = True              pos : neg    =      9.7 : 1.0
+
+test set range: 600-700 accuracy: 0.87
+Most Informative Features
+(('is', 'VBZ'), ('perfect', 'JJ')) = True              pos : neg    =     17.0 : 1.0
+(('is', 'VBZ'), ('terrific', 'JJ')) = True              pos : neg    =     16.3 : 1.0
+(('not', 'RB'), ('funny', 'JJ')) = True              neg : pos    =     13.7 : 1.0
+(('our', 'PRP$'), ('own', 'JJ')) = True              pos : neg    =     12.3 : 1.0
+(('entertaining', 'JJ'), ('and', 'CC')) = True              pos : neg    =     11.7 : 1.0
+(('flat', 'JJ'), ('.', '.')) = True              neg : pos    =     11.0 : 1.0
+(('very', 'RB'), ('similar', 'JJ')) = True              pos : neg    =      9.7 : 1.0
+(('in', 'IN'), ('modern', 'JJ')) = True              pos : neg    =      9.0 : 1.0
+(('an', 'DT'), ('outstanding', 'JJ')) = True              pos : neg    =      9.0 : 1.0
+((',', ','), ('stupid', 'JJ')) = True              neg : pos    =      9.0 : 1.0
+
+test set range: 700-800 accuracy: 0.87
+Most Informative Features
+(('is', 'VBZ'), ('terrific', 'JJ')) = True              pos : neg    =     17.0 : 1.0
+(('not', 'RB'), ('funny', 'JJ')) = True              neg : pos    =     15.7 : 1.0
+(('s', 'RB'), ('as', 'IN')) = True              neg : pos    =     13.7 : 1.0
+(('our', 'PRP$'), ('own', 'JJ')) = True              pos : neg    =     12.3 : 1.0
+(('very', 'RB'), ('similar', 'JJ')) = True              pos : neg    =     11.0 : 1.0
+(('.', '.'), ('too', 'RB')) = True              neg : pos    =     10.6 : 1.0
+(('a', 'DT'), ('boring', 'JJ')) = True              neg : pos    =     10.3 : 1.0
+(('a', 'DT'), ('fantastic', 'JJ')) = True              pos : neg    =     10.3 : 1.0
+(('your', 'PRP$'), ('typical', 'JJ')) = True              pos : neg    =     10.3 : 1.0
+(('entertaining', 'JJ'), ('and', 'CC')) = True              pos : neg    =      9.7 : 1.0
+
+test set range: 800-900 accuracy: 0.8
+Most Informative Features
+(('not', 'RB'), ('funny', 'JJ')) = True              neg : pos    =     16.3 : 1.0
+(('is', 'VBZ'), ('terrific', 'JJ')) = True              pos : neg    =     15.7 : 1.0
+(('entertaining', 'JJ'), ('and', 'CC')) = True              pos : neg    =     12.3 : 1.0
+(('quite', 'RB'), ('well', 'RB')) = True              pos : neg    =     11.7 : 1.0
+(('our', 'PRP$'), ('own', 'JJ')) = True              pos : neg    =     11.0 : 1.0
+(('very', 'RB'), ('similar', 'JJ')) = True              pos : neg    =     11.0 : 1.0
+(('perfectly', 'RB'), ('.', '.')) = True              pos : neg    =     11.0 : 1.0
+(('an', 'DT'), ('outstanding', 'JJ')) = True              pos : neg    =     10.3 : 1.0
+(('flat', 'JJ'), ('.', '.')) = True              neg : pos    =     10.3 : 1.0
+(('matt', 'JJ'), ('damon', 'NN')) = True              pos : neg    =      9.7 : 1.0
+
+test set range: 900-1000 accuracy: 0.875
+Most Informative Features
+(('is', 'VBZ'), ('terrific', 'JJ')) = True              pos : neg    =     15.7 : 1.0
+(('not', 'RB'), ('funny', 'JJ')) = True              neg : pos    =     14.3 : 1.0
+(('our', 'PRP$'), ('own', 'JJ')) = True              pos : neg    =     13.0 : 1.0
+(('entertaining', 'JJ'), ('and', 'CC')) = True              pos : neg    =     12.3 : 1.0
+(('bad', 'JJ'), ('dialogue', 'NN')) = True              neg : pos    =     11.0 : 1.0
+(('an', 'DT'), ('outstanding', 'JJ')) = True              pos : neg    =     10.3 : 1.0
+(('a', 'DT'), ('boring', 'JJ')) = True              neg : pos    =      9.7 : 1.0
+(('red', 'JJ'), ('planet', 'NN')) = True              neg : pos    =      9.7 : 1.0
+(('good', 'JJ'), ('actors', 'NNS')) = True              neg : pos    =      9.7 : 1.0
+(('fairy', 'JJ'), ('tale', 'NN')) = True              pos : neg    =      9.7 : 1.0
+
+
+total accuracy:  0.8390000000000001
